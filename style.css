@@ -1,0 +1,44 @@
+body{
+    background-image:url(gengibre-4.jpg);
+    background-size: cover
+
+}
+button{
+    margin-right:20px;
+    margin-left: 30px;
+    margin-top: 50px;
+    margin-bottom: 70px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.botao-tempero{
+    background-color:aqua;
+}
+
+.botao-cha{
+    background-color: cyan;
+}
+
+.botao-bala{
+    background-color: deepskyblue;
+}
+.botao-cachaça{
+    background-color: darkcyan
+}
+
+div h3:first-child{
+    color: cornflowerblue
+}
+div h3:last-child{
+    color: darkblue
+}
+div h3:nth-child(2){
+    color: blue
+}
+div{
+    background-color: blue
+    width:550px ;
+}
+
